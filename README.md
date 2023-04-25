@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on scraping
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently working with Clojure
 
  <div>
   <a href="https://github.com/zZMathSP">
